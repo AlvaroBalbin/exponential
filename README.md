@@ -45,7 +45,7 @@ Long-term, I want to help build or lead a **zero-to-one product** with real tech
 | **Environmental Audio Classifier** | Solo dev, Python, PyTorch, CNN, Audio DSP Pipeline | https://youtu.be/sZRsSX-Q6wA |
 | **Hull Tactical Competition (Kaggle)** | Co-dev, Python, Pandas, Feature Engineering, Walk-forward Backtesting | https://youtu.be/mQCyDRs_Zlw |
 
-**More builds** (selected): Hull Tactical quantitative strategy (Kaggle), real-time Kalman tracker (state estimation + CV), FPGA ALU (Verilog), modular ESP32 weather display (laser-cut + PCB).
+**More builds** (selected): Real-time Kalman tracker (state estimation + CV), FPGA ALU (Verilog), modular ESP32 weather display (laser-cut + PCB).
 
 
 
