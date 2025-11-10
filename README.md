@@ -14,6 +14,7 @@ I work best in **small, high-speed teams** where ownership is clear and decision
 
 Long-term, I want to help build or lead a **zero-to-one product** with real technical depth. I eventually want to either join a founding team or build my own company and push something valuable into the world.
 
+--- 
 
 ## Main Achievements
 
