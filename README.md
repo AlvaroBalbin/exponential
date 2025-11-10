@@ -105,3 +105,12 @@ Personal links:
 In 5 years, I see myself building alongside people who are **sharp, ambitious and serious about creating new things**, not just talking about them.
 
 The Exponential Fellowship aligns with that. I want proximity to people who think boldly, move fast and are willing to bet on themselves. I want to be in rooms where decisions matter and where what we build has real impact.
+
+## Sources
+
+External profiles and references:
+
+**GitHub:** https://github.com/AlvaroBalbin  
+**LinkedIn:** https://www.linkedin.com/in/alvaro-balbin-ugalde-68b237318/  
+**Website:** https://alvarobalbin.com  
+**Instagram:** https://www.instagram.com/alvaro_balbin/
