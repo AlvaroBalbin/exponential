@@ -25,15 +25,16 @@ Long-term, I want to help build or lead a **zero-to-one product** with real tech
 
 ## Main Achievements
 
-• **Founder & sole developer of MCA Counselling** — launched a counselling platform serving clients across the **UK, EU and US**. Built the full product stack and led operations. Achieved real revenue and usage.
+• **Co-founder and sole developer of MCA Counselling**. Launched a counselling platform serving clients across the UK, EU and US. Built the full product stack and led operations. Achieved real revenue and usage.
 
-• **Lead roles in two autonomous robotics teams** — managing **19-person** (Drones) and **10-person** (Autonomous Sailing) engineering teams. Working on real perception, control and power systems for air and marine autonomy.
+• **Lead roles in two autonomous robotics teams**. Managing 19-person (Drones) and 10-person (Autonomous Sailing) engineering teams. Working on real perception, control and power systems for air and marine autonomy.
 
 • Built multiple **end-to-end ML + embedded systems** (vision tracking, audio classification, real-time autonomy). I focus on systems that **run in the physical world**, not just in notebooks.
 
-• Competitive **powerlifter** (600kg BUCS target) and **sub-20 5K** runner — consistency and discipline are core to how I work.
+• Competitive **powerlifter** (600kg BUCS target) and **sub-20 5K** runner. Consistency and discipline are core to how I work.
 
-• Fluent in **Spanish, English, German, and Turkish**, learning Italian. Grew up internationally — adapt fast and communicate clearly across teams.
+• Fluent in **Spanish, English, German, and Turkish**, currently learning Italian. Grew up internationally and adapt quickly across cultures and teams.
+
 
 
 ### Most-Prideful Builds
