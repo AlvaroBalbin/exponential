@@ -45,6 +45,7 @@ Performed quantitative revenue and inventory analysis on 10,000+ SKUs using NumP
 • **Lead Peer Mentor**, University of Bath Electrical and Electronic Engineering Department (2025 to 2026)  
 Supported first-year students academically and socially, organized structured study and integration sessions, and strengthened cohort collaboration.
 
+---
 
 ### How I Work
 
@@ -63,6 +64,7 @@ Reducing workload and focusing deeply on one track at a time instead of running 
 **Comms style:**  
 Straight to the point, clear and collaborative. I ask questions early, move fast, and prefer honest and direct communication over HR-speak.
 
+---
 
 ## Some Personal Stuff
 
