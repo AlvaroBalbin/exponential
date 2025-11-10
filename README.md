@@ -36,14 +36,17 @@ Long-term, I want to help build or lead a **zero-to-one product** with real tech
 • Fluent in **Spanish, English, German, and Turkish**, learning Italian. Grew up internationally — adapt fast and communicate clearly across teams.
 
 
-
 ### Most-Prideful Builds
 
-| Project | Your Role & Stack | Impact / Demo |
-|--------|-------------------|----------------|
-| **Auto-Framing AI Camera** | Solo dev, Python, OpenCV, MediaPipe | Demo: https://youtu.be/6LIKZzyblYA |
-| **MegaMind RAG** | Solo dev, Python, FAISS Vector Store, Embeddings, Prompt Engineering | Demo: https://youtu.be/lucUFWEMDYA |
-| **Environmental Audio Classifier** | Solo dev, Python, PyTorch, CNN, Audio DSP Pipeline | Demo: https://youtu.be/sZRsSX-Q6wA |
+| Project | Your Role and Stack | Impact / Demo |
+|--------|---------------------|----------------|
+| **Auto-Framing AI Camera** | Solo dev, Python, OpenCV, MediaPipe | https://youtu.be/6LIKZzyblYA |
+| **MegaMind RAG** | Solo dev, Python, FAISS Vector Store, Embeddings, Prompt Engineering | https://youtu.be/lucUFWEMDYA |
+| **Environmental Audio Classifier** | Solo dev, Python, PyTorch, CNN, Audio DSP Pipeline | https://youtu.be/sZRsSX-Q6wA |
+| **Hull Tactical Competition (Kaggle)** | Co-dev, Python, Pandas, Feature Engineering, Walk-forward Backtesting | https://youtu.be/mQCyDRs_Zlw |
+
+**More builds** (selected): Hull Tactical quantitative strategy (Kaggle), real-time Kalman tracker (state estimation + CV), FPGA ALU (Verilog), modular ESP32 weather display (laser-cut + PCB).
+
 
 
 ### Experience (TL;DR)
