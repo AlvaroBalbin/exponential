@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="alvaro_banner.png" width="100%">
-</p>
-
-<p align="center">
     <a href="https://github.com/AlvaroBalbin"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/alvaro-balbin-ugalde-68b237318/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/alvaro_balbin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
