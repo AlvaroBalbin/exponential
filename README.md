@@ -94,11 +94,6 @@ Music matters to me. I like **jazz and rock**, especially **Sting** and **Scorpi
 I also listen to **rap (Biggie)** and older **Spanish music**.  
 My favorite song is **Libre** by Nino Bravo.
 
-Personal links:  
-• Website: https://alvarobalbin.com  
-• Instagram: https://www.instagram.com/alvaro_balbin/  
-• LinkedIn: https://www.linkedin.com/in/alvaro-balbin-ugalde-68b237318/  
-
 
 ## My Vision
 
