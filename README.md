@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="alvaro_banner.png" width="100%">
+</p>
+
 # The Basics
 
 My name is **Alvaro Balbin**. I grew up between Spain and Turkey in a very international environment, which taught me to adapt quickly and move comfortably across cultures. I speak Spanish, English, German and Turkish, and I’m currently learning Italian.
