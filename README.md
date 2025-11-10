@@ -25,7 +25,7 @@ Long-term, I want to help build or lead a **zero-to-one product** with real tech
 
 ## Main Achievements
 
-• **Co-founder and sole developer of MCA Counselling**. Launched a counselling platform serving clients across the UK, EU and US. Built the full product stack and led operations. Achieved real revenue and usage.
+• **Co-founder and sole developer of MCA Counselling** (https://mca-counselling.com). Launched a counselling platform serving clients across the UK, EU and US. Built the full product stack and led operations. Achieved real revenue and usage.
 
 • **Lead roles in two autonomous robotics teams**. Managing 19-person (Drones) and 10-person (Autonomous Sailing) engineering teams. Working on real perception, control and power systems for air and marine autonomy.
 
@@ -53,7 +53,7 @@ Long-term, I want to help build or lead a **zero-to-one product** with real tech
 ### Experience (TL;DR)
 
 • **Co-founder and Lead Developer**, MCA Counselling (May 2025 to Present)  
-Built and scaled a counselling platform operating across the UK, EU and US. Sole developer for the product stack and led operations and system scaling. Achieved five-figure revenue.
+Built and scaled a counselling platform operating across the UK, EU and US. Sole developer for the product stack and led operations and system scaling. Achieved four-figure revenue.
 
 • **Project Manager**, Team Bath Drones (Autonomous UAV Team) (Sep 2025 to Present)  
 Leading a 19-person engineering team developing an autonomous unmanned aerial vehicle. Coordinating structures, avionics, perception and control system integration. Responsible for testing cycles, risk planning and flight-ready system cohesion.
